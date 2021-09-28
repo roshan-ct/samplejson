@@ -1,0 +1,26 @@
+{
+        {
+            id:101,
+            firstName : `Jack`,
+            lastName : `Sparrow`,
+            salary : 23000
+        },
+        {
+            id:102,
+            firstName : `Chris`,
+            lastName : `Evans`,
+            salary : 33000
+        },
+        {
+            id:103,
+            firstName : `Jason`,
+            lastName : `Stanthom`,
+            salary : 19000
+        },
+        {
+            id:104,
+            firstName : `Alex`,
+            lastName : `Mercer`,
+            salary : 23000
+        },
+    }
